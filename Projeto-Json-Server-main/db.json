@@ -1,0 +1,100 @@
+{
+    "Hoteis": [
+      {
+        "id": 1,
+        "nome": "Copacabana show"
+      },
+      {
+        "id": 2,
+        "nome": "Nova Barra"
+      },
+      {
+          "id":3,
+          "nome":"Place Stor"
+      },
+      {
+          "id":4,
+          "nome":"Now ipanema"
+      }
+    
+
+    ],
+
+    "vagas": [
+      {
+        "id": 1,
+        "Disponivel": 4,
+        "Ocupados": 6
+      },
+      {
+          "id": 2,
+          "Disponivel":6,
+          "Ocupados":3
+      },
+      {
+        "id": 3,
+        "Disponivel": 7,
+        "Ocupados": 2
+      },
+      {
+        "id": 4,
+        "Disponivel": 0,
+        "Ocupados": 10
+      }
+        
+    ],
+
+    "Local":[
+        {
+        "id":1,
+        "Cidade":"Rio de Janeiro",
+        "Bairro":"copacabana"
+        },
+      {
+      "id":2,
+      "Cidade":"Rio de Janeiro",
+      "Bairro":"Barra da Tijuca"
+      },
+       {
+        "id":3,
+        "Cidade":"Rio de Janeiro",
+        "Bairro":"Botafogo"
+       },
+        {
+        "id":4,
+        "Cidade":"Rio de Janeiro",
+        "Bairro":"Ipanema"
+          
+        }
+
+    ],
+
+    "Piscina": [
+    
+    {
+      
+    "id":1,
+    "tem":"sim"
+    },
+
+    {   
+    
+    "id":2,
+    "tem": "não"
+
+    },
+    {   
+     "id":3,
+     "tem": "não"
+    },
+    {   
+     "id":4,
+     "tem": "sim"
+     }
+   
+   ]
+   
+
+
+}
+
